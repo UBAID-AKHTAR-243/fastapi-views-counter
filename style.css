@@ -16,9 +16,8 @@ body {
 .view-card {
   width:200px;
   height:100px;
-  color:green;
-  
-  background: blue;
+  background-color:green;
+  font-size:80px;
   border-radius: 12px;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
   padding: 24px 32px;
@@ -31,24 +30,15 @@ body {
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.15);
   color:red;
 }
-span {
-
-
-  width:400px;
-  height:600px;
-  color:yellow;
-  background: magenta;
-  
-  
   
 }
 
 #view-count {
 
-  font-size:40px;  
+  font-size:80px;  
   width:200px;
   height:100px;
- font-weight: bold;
+  font-weight: bold;
   color: #ffffff; /* Microsoft blue accent */
   margin-right: 6px;
 }
