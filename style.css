@@ -9,15 +9,16 @@ body {
   align-items: center;
   height: 1000vh;
   width:1000vh;
+  color:yellow;
 }
 
 /* Card container */
 .view-card {
   width:400px;
   height:300px;
-  color:green;
+  color:#ffffff;
   
-  background: #ffffff;
+  background: blue;
   border-radius: 12px;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
   padding: 24px 32px;
