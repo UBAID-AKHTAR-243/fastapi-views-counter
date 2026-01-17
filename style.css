@@ -14,9 +14,10 @@ body {
 
 /* Card container */
 .view-card {
+  color:#ffffff;
   display:flex;
   width:300px;
-  height:200px;
+  height:130px;
   background-color:green;
   font-size:80px;
   border-radius: 12px;
