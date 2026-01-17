@@ -7,13 +7,14 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 1000vh;
+  width:1000vh;
 }
 
 /* Card container */
 .view-card {
-  width:200px;
-  height:200px;
+  width:400px;
+  height:300px;
   color:green;
   
   background: #ffffff;
