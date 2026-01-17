@@ -17,7 +17,7 @@ body {
   color:#ffffff;
   display:flex;
   width:300px;
-  height:130px;
+  height:100px;
   background-color:green;
   font-size:80px;
   border-radius: 12px;
@@ -35,16 +35,17 @@ body {
 
 .bob {style="display:flex;
      margin-right:4px; 
-     height:140px;
-     color:#ffffff;"}
+     height:100px;
+     "}
 
 
 #view-count {
 
   font-size:80px;  
-  width:200px;
+  width:100px;
   height:100px;
   font-weight: bold;
   color: #ffffff; /* Microsoft blue accent */
   margin-right: 6px;
 }
+  .coc {color:#ffffff;}
