@@ -32,16 +32,20 @@ body {
   color:red;
 }
 span {
+
+
   width:400px;
   height:600px;
   color:yellow;
   background: magenta;
-  font-size:40px;
+  
   
   
 }
 
 #view-count {
+
+  font-size:40px;  
   width:200px;
   height:100px;
  font-weight: bold;
