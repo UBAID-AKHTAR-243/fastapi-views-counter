@@ -7,8 +7,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 1000vh;
-  width:1000vh;
+  height: 500vh;
+  width:500vh;
   color:yellow;
 }
 
