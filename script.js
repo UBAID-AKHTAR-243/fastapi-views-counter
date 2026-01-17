@@ -1,4 +1,4 @@
-const BASE_URL = "https://fastapi-views-counter.onrender.com"; // replace with your Render URL
+const BASE_URL = "https://counter-sks5.onrender.com"; // replace with your Render URL
 
 async function loadViews(reelId) {
   const response = await fetch(`${BASE_URL}/views/${reelId}`);
