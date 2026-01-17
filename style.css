@@ -32,8 +32,8 @@ body {
   color:red;
 }
 
-.bob{display:flex;
-   margin-right:4px; }
+.bob{style="display:flex;
+   margin-right:4px;" }
 
 
 #view-count {
