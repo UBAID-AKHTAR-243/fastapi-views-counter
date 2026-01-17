@@ -1,7 +1,7 @@
 /* General page styling */
 body {
   font-family: 'Segoe UI', Roboto, Arial, sans-serif;
-
+  background: red;
   margin: 0;
   padding: 40px;
   display: flex;
