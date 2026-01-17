@@ -1,7 +1,7 @@
 /* General page styling */
 body {
   font-family: 'Segoe UI', Roboto, Arial, sans-serif;
-  background:#0067C0;
+  background-color:#252525;
   margin: 0;
   padding: 40px;
   display: flex;
@@ -16,7 +16,7 @@ body {
 .view-card {
   width:400px;
   height:400px;
-  color:#ffffff;
+  color:#0067C0;
   
   background: blue;
   border-radius: 12px;
@@ -52,7 +52,10 @@ body {
 }
 
 #view-count {
+  width:200px;
+  height:100px;
+  
   font-weight: bold;
-  color: #0078d7; /* Microsoft blue accent */
+  color: #ffffff; /* Microsoft blue accent */
   margin-right: 6px;
 }
