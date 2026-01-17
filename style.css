@@ -1,7 +1,7 @@
 /* General page styling */
 body {
   font-family: 'Segoe UI', Roboto, Arial, sans-serif;
-  background-color:#252525;
+  background-color:#0067C0;
   margin: 0;
   padding: 40px;
   display: flex;
@@ -14,9 +14,9 @@ body {
 
 /* Card container */
 .view-card {
-  width:400px;
-  height:400px;
-  color:#0067C0;
+  width:200px;
+  height:100px;
+  color:green;
   
   background: blue;
   border-radius: 12px;
@@ -32,16 +32,18 @@ body {
   color:red;
 }
 span {
-  width:200px;
-  height:100px;
+  width:400px;
+  height:600px;
+  color:yellow;
+  background: magenta;
+  
   
 }
 
 #view-count {
   width:200px;
   height:100px;
-  
-  font-weight: bold;
+ font-weight: bold;
   color: #ffffff; /* Microsoft blue accent */
   margin-right: 6px;
 }
