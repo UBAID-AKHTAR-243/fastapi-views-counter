@@ -12,8 +12,8 @@ body {
 
 /* Card container */
 .view-card {
-  width:50px;
-  height:50px;
+  width:200px;
+  height:200px;
   
   background: #0067C0;
   border-radius: 12px;
