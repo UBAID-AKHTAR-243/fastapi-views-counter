@@ -14,8 +14,9 @@ body {
 .view-card {
   width:200px;
   height:200px;
+  color:green;
   
-  background: #0067C0;
+  background: #ffffff;
   border-radius: 12px;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
   padding: 24px 32px;
