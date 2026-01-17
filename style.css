@@ -33,8 +33,10 @@ body {
   color:red;
 }
 
-.bob{style="display:flex;
-   margin-right:4px;" }
+.bob {style="display:flex;
+     margin-right:4px; 
+     height:140px;
+     color:#ffffff;"}
 
 
 #view-count {
