@@ -46,4 +46,5 @@ body {
   color: #ffffff; /* Microsoft blue accent */
   margin-right: 6px;
 }
-  .coc {color:#ffffff;}
+  #coc {color:#ffffff;
+        }
